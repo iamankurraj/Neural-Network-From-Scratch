@@ -14,4 +14,4 @@ This project implements a basic feedforward neural network from scratch in Pytho
 
 ## Usage
 1. Clone the repository  
-2. Install dependencies:
+2. Install dependencies
